@@ -1,0 +1,55 @@
+body{
+    text-align-last: center;
+    margin-top:100px;
+    background-color: #e8f3f8;
+    background-image: url(..//Project3/img/sky.jpg.jpeg)
+    
+}
+
+.jumbotron{
+    background:steelblue;
+    background-position-x:950px;
+    background-repeat:no-repeat;
+    background-size:200px 150px;
+    font-family: 'Black Ops One', cursive;
+    text-align: center;
+}
+
+h1{
+  border: none;
+  color: steelblue;
+  padding-bottom:50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 80px;
+  margin: 4px 2px;
+  cursor: pointer;
+ font-family: 'Impact', 'Charcoal', 'sans-serif';
+    
+}
+
+h1, h3{
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+.col{
+    margin-left:38%;
+    color:white;
+    
+    
+}
+
+#answer{
+    padding:30px;
+}
+
